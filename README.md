@@ -1,4 +1,5 @@
-# GitFirst
-GitFirst
+# GitFirst - My first project in GitHub
 
-Simple Test
+
+# First test
+First test regarding GitHub
