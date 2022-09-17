@@ -1,3 +1,1 @@
-print("Hello2hb")
-print("idk")
-print("ola")
+print("First Git Project")
